@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D3D19CCF-0325-FFBB-83A9-6839828A8B94}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerMove.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerMove.cs" Line="9" Column="12" />
+      <File FileName="Assets/Script/MoveUtil.cs" Line="16" Column="103" NotebookId="1" />
+      <File FileName="../trunk/Day1102/Assets/Script/AnimationEvent.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="../trunk/Day1102/Assets/Script/BaseFSM.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="../trunk/Day1102/Assets/Script/CharacterState.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="../trunk/Day1102/Assets/Script/FSMBase.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="../trunk/Day1102/Assets/Script/OnAnimationEvent.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="../trunk/Day1102/Assets/Script/PlayerFSM.cs" Line="35" Column="35" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
