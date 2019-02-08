@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D7901347-1EE3-34E1-2FA2-10233DEC6076}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/portal.cs">
+    <Files>
+      <File FileName="Assets/Script/portal.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/logCollision.cs" Line="35" Column="43" />
+      <File FileName="Assets/Script/stage2Camera.cs" Line="17" Column="76" />
+      <File FileName="Assets/Script/cameraMoveY.cs" Line="20" Column="86" />
+      <File FileName="Assets/Script/mosterAttack.cs" Line="12" Column="6" />
+      <File FileName="Assets/Script/playerMove.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Script/changeScene.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Script/newStart.cs" Line="24" Column="97" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
